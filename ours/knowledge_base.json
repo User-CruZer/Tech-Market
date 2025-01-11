@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hi there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm bot for help you to give an informations"
+    },
+    {
+      "question": "hi",
+      "answer": "hi there"
+    },
+    {
+      "question": "recomend me a pc",
+      "answer": "PC1:\nCPU: Ryzen 9 5900X\nFan Cooler: Deepcool AG400 Plus\nMOBO: ASRock B550M Pro4\nRAM: Teamgroup DDR4 16GB\nSTORAGE: Kyo Kaizen M.2 512GB\nGPU: Radeon RX 580 8G\nPSU: FSP HV PRO 550W\nCASING: Digital Alliance N30S V2 M-ATX\n-----------------------------\nPRICE: 5.000.000"
+    },
+    {
+      "question": "Cheapest price PC",
+      "answer": "2.600.000 | Intel Core i3-4170 | VenomRX DDR3 PC12800 8GB | V-Gen Rescue 960GB SATA3 | VenomRX Geforce GTX 750 Ti 4GB DDR5 | VenomRX Intel H81 M.2"
+    },
+    {
+      "question": "the most expensive PC",
+      "answer": "71.000.000 | intel core i9 14900KS | G.Skill Trident Z5 2X16 DDR5 | Samsung SSD 990 PRO 1TB | MSI RTX 4090 XTRIO 24GB | Asus Rog Maximus Z790 HERO"
+    },
+    {
+      "question": "best cpu by price",
+      "answer": "Ryzen 9 5900X"
+    },
+    {
+      "question": "best vga by price",
+      "answer": "ASUS Nvidia GeForce RTX 3070 8GB GDDR6"
+    },
+    {
+      "question": "best ssd",
+      "answer": "samsung evo"
+    },
+    {
+      "question": "best mobo by price",
+      "answer": "MSI A520M-A Pro"
+    },
+    {
+      "question": "best ram",
+      "answer": "teamgroup"
+    },
+    {
+      "question": "best casing",
+      "answer": "aerocool bolt"
+    },
+    {
+      "question": "best psu",
+      "answer": "Gigabyte P550B 550W 80 + Bronze"
+    },
+    {
+      "question": "best pc",
+      "answer": "5.000.000 | Ryzen 9 5900X | ASRock B550M Pro4 | Teamgroup DDR4 16GB | Kyo Kaizen M.2 512GB | Radeon RX 580 8G | FSP HV PRO 550W | "
+    },
+    {
+      "question": "best vga by performance",
+      "answer": "MSI GeForce RTX 4090 GAMING X TRIO 24GB"
+    },
+    {
+      "question": "help",
+      "answer": "hello | how are you? | hi | recomend me a pc | Cheapest price PC | the most expensive pc | best cpu by price | best cpu by performance | best vga by price | best vga by performance | best ssd | best mobo by performance | best mobo by price | best ram | best casing | best psu | best pc"
+    },
+    {
+      "question": "best cpu by performance",
+      "answer": "intel i7 10700k"
+    },
+    {
+      "question": "best mobo by performance",
+      "answer": "MSI Z490-A PRO"
+    }
+  ]
+}

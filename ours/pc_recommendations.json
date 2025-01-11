@@ -1,0 +1,114 @@
+{
+  "recomend_me_a_pc": {
+    "PC1": {
+      "PRICE": "2.600.000",
+      "CPU": "Intel Core i3-4170 3.7 Ghz",
+      "Fan Cooler": "Raptor X2000",
+      "MOBO": "VenomRX Intel H81 M.2",
+      "RAM": "VenomRX DDR3 PC12800 8GB",
+      "STORAGE": "V-Gen Rescue 960GB SATA3",
+      "GPU": "VenomRX Geforce GTX 750 Ti 4GB DDR5",
+      "PSU": "aerocool united 500W",
+      "CASING": "Simbadda SIM V-3162 + PSU 380W"
+    },
+    "PC2": {
+      "PRICE": "2.700.000",
+      "CPU": "intel pentium g5420",
+      "Fan Cooler": "kyo thermalease gt390",
+      "MOBO": "kyo kaizen h110 lga 1151",
+      "RAM": "crucial 8GB DDR4",
+      "STORAGE": "teamgroup ssd 128GB",
+      "GPU": "asus gtx 710 2GB",
+      "PSU": "aerocool united 500W",
+      "CASING": "nyk nemesis notus t68"
+    },
+    "PC3": {
+      "PRICE": "5.000.000",
+      "CPU": "AMD Ryzen 5 5500 3.6Ghz",
+      "Fan Cooler": "Fan cooler AM4 Original",
+      "MOBO": "MSI B450M-A PRO MAX II",
+      "RAM": "Corsair DDR4 Vengeance LPX PC21000 16GB",
+      "STORAGE": "Acer RE100 SSD 512GB SATA III",
+      "GPU": "Biostar Radeon RX 550 4GB DDR5",
+      "PSU": "GameMax PSU 450W GP-450 80 + Bronze",
+      "CASING": "Paradox Gaming Case Antartica"
+    },
+    "PC4": {
+      "PRICE": "5.000.000",
+      "CPU": "Ryzen 9 5900X",
+      "Fan Cooler": "Deepcool AG400 Plus",
+      "MOBO": "ASRock B550M Pro4",
+      "RAM": "Teamgroup DDR4 16GB",
+      "STORAGE": "Kyo Kaizen M.2 512GB",
+      "GPU": "Radeon RX 580 8G",
+      "PSU": "FSP HV PRO 550W",
+      "CASING": "Digital Alliance N30S V2 M-ATX"
+    },
+    "PC5": {
+      "PRICE": "6.500.000",
+      "CPU": "AMD Ryzen 5 4600G",
+      "Fan Cooler": "PC Cooler RT500 DIGITAL ARGB BK",
+      "MOBO": "MSI A520M-A Pro",
+      "RAM": "V-Gen Tsunami DDR4 PC2400 3000Mhz 16gb dual channel",
+      "STORAGE": "Transcend 225S 1TB 2.5 SATA3",
+      "GPU": "VenomRX Radeon RX 580 8gb DDR5",
+      "PSU": "Gigabyte P550B 550W 80 + Bronze",
+      "CASING": "Aerocool CS-107 FRGB Acrylic Panel"
+    },
+    "PC6": {
+      "PRICE": "8.101.300",
+      "CPU": "Ryzen 5 4500",
+      "Fan Cooler": "AMD AM4 Wraith Stealth Cooler Heatsink Fan HSF Ryzen",
+      "MOBO": "B550MH",
+      "RAM": "kingston fury ddr4 3200MHz 1x16gb",
+      "STORAGE": "ssd ace power 512gb",
+      "GPU": "gigabyte rtx 3050 6GB DDR6",
+      "PSU": "ace power fp550-550W 80+ bronze",
+      "CASING": "neotez deus"
+    },
+    "PC7": {
+      "PRICE": "10.107.000",
+      "CPU": "AMD Ryzen 5 3600",
+      "Fan Cooler": "Cooler Master Hyper 212 Black Edition",
+      "MOBO": "MSI B450 TOMAHAWK MAX",
+      "RAM": "Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200",
+      "STORAGE": "Samsung 970 EVO 500GB NVMe SSD",
+      "GPU": "NVIDIA GeForce GTX 1660 Ti 6GB DDR6",
+      "PSU": "Corsair CX550M (550W,80 + Bronze Certified)",
+      "CASING": "NZXT H510"
+    },
+    "PC8": {
+      "PRICE": "11.327.000",
+      "CPU": "intel core i5 12400f",
+      "Fan Cooler": "MSI MAG CORELIQUID M240 CPU COOLER MSI M 240 AIO Cooler LGA 1700 AM5",
+      "MOBO": "MSI PRO H610M-S WIFI DDR4",
+      "RAM": "kingston fury ddr4 3200MHz 1x16gb",
+      "STORAGE": "ACE POWER A1 512GB",
+      "GPU": "Gigabyte GeForce RTX 3060 WINDFORCE OC 12GB",
+      "PSU": "ace power fp550-550W 80+ bronze",
+      "CASING": "neotez deus"
+    },
+    "PC9": {
+      "PRICE": "12.000.000",
+      "CPU": "Intel i7 10700K",
+      "Fan Cooler": "Coorsair H115i Pro",
+      "MOBO": "MSI Z490-A PRO",
+      "RAM": "Corsair Vengeance LPX 16GB",
+      "STORAGE": "Samsung 970 EVO Plus 1TB",
+      "GPU": "NVIDIA GeForce RTX 3070",
+      "PSU": "Corsair RM750x",
+      "CASING": "NZXT H510"
+    },
+    "PC10": {
+      "PRICE": "71.000.000",
+      "CPU": "intel core i9 14900KS",
+      "Fan Cooler": "msi MEG coreliquid S360",
+      "MOBO": "Asus Rog Maximus Z790 HERO",
+      "RAM": "G.Skill Trident Z5 2x16 DDR5",
+      "STORAGE": "Samsung SSD 990 PRO 1TB",
+      "GPU": "MSI RTX 4090 XTRIO 24GB",
+      "PSU": "MSI MEG Ai1300P",
+      "CASING": "MSI MAG PANO M100R BLACK"
+    }
+  }
+}
